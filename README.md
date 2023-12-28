@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jeonghwan Park 🙋🏻
+## Hi there, I'm Jeonghwan Park 🙋🏻
 
 
 <div align="center">
