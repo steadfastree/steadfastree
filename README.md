@@ -6,6 +6,7 @@ Under Construction 👷
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=pjhisgod)](https://solved.ac/pjhisgod)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steadfastree&show_icons=true&theme=radical)
 <!--
 **steadfastree/steadfastree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
