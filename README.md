@@ -1,22 +1,40 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=steadfastree&fontSize=90)
+
 ## Hi there, I'm Jeonghwan Park 🙋🏻
 
 
-<div align="center">
+<div align="left">
 
-  ### 🌱 I’m currently learning ...
-
+  ### 🔥 I mainly use ...
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+  <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <br />
+  <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/rabbitMQ-FF6600?style=for-the-badge&logo=rabbitMQ&logoColor=white">
+
+
+  
+  ### 🌱 I’m currently learning ...
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  
+
+
   
   ###  🧑🏻‍💻 My Github Stats 
   
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steadfastree&show_icons=true&theme=radical)
-  <br />
+  <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steadfastree&layout=donut&theme=radical)
 
-  ###  🔥 My BOJ Stats
+  <!--###  🔥 My BOJ Stats
 
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=pjhisgod)](https://solved.ac/pjhisgod)
