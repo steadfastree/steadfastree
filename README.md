@@ -34,6 +34,14 @@
   <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steadfastree&layout=donut&theme=radical)
 
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/steadfastree?pet-id=652361442546408406"
+    width="600"
+    height="120"
+  />
+</a>
+
   <!--###  🔥 My BOJ Stats
 
   
