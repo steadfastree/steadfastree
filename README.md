@@ -24,6 +24,7 @@ For a tiny trial, I can also do a **pay-what-you-want minimum ₩1** first pass 
 
 How to request:
 
+- See a sample output: [`sample-agent-workflow-audit.md`](./sample-agent-workflow-audit.md)
 - Open an issue here: https://github.com/steadfastree/steadfastree/issues/new
 - Include: repo/context, current agent tools, what keeps failing, and preferred output.
 - Payment is handled manually after we agree on scope. No payment needed before I confirm I can help.
