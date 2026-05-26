@@ -1,0 +1,56 @@
+name: Paid AI agent workflow inquiry
+description: Request a scoped paid audit or async consulting slot
+title: "[Paid inquiry] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest. Please do not share secrets, private keys, customer data, or confidential source code in this public issue. A public repo link or sanitized excerpts are enough for an initial scope check.
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What are you building, and how are you currently using AI coding agents?
+      placeholder: "Example: TypeScript monorepo using Claude Code/Codex. Agents can implement small tasks, but PRs miss acceptance criteria and review takes too long."
+    validations:
+      required: true
+  - type: textarea
+    id: failure_mode
+    attributes:
+      label: Repeated failure mode
+      description: What keeps going wrong?
+      placeholder: "Stale instructions, duplicate PRs, vague issues, missing tests, weak PR descriptions, broken handoffs, etc."
+    validations:
+      required: true
+  - type: dropdown
+    id: deliverable
+    attributes:
+      label: Desired deliverable
+      options:
+        - Repository workflow audit — written findings, from KRW 50,000
+        - Agent-ready issue / PR template setup — from KRW 80,000
+        - Async workflow review + recommendations — from KRW 120,000
+        - Not sure yet — please suggest a small first scope
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Public links or sanitized excerpts
+      description: Public repo, public issue, docs, or safe excerpts only. Do not paste secrets or private code.
+    validations:
+      required: false
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Constraints / non-goals
+      description: Anything that must not be changed, posted publicly, or assumed?
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: Contact preference
+      description: GitHub issue comments are fine by default. Add another contact only if you prefer.
+    validations:
+      required: false
