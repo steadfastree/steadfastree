@@ -1,0 +1,50 @@
+name: Paid micro-consulting inquiry
+description: Request a paid AI agent workflow audit or micro-consulting slot
+title: "[Paid inquiry] "
+labels: ["paid-inquiry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest. Please do not share secrets, private keys, or confidential source code in this public issue.
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What are you building, and how are you currently using AI agents?
+      placeholder: "Example: TypeScript monorepo using Claude Code/Codex; issues are vague and PR review is inconsistent."
+    validations:
+      required: true
+  - type: textarea
+    id: pain
+    attributes:
+      label: What keeps failing?
+      description: Describe the bottleneck or repeated failure mode.
+      placeholder: "Stale instructions, bad handoffs, weak issue specs, review misses, conflict hell, etc."
+    validations:
+      required: true
+  - type: dropdown
+    id: offer
+    attributes:
+      label: Desired offer
+      options:
+        - Repository workflow audit — from KRW 30,000
+        - Agent-ready issue / PR template setup — from KRW 50,000
+        - Async review + written recommendations — from KRW 100,000
+        - Tiny trial / pay-what-you-want minimum KRW 1
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Public links or safe excerpts
+      description: Add public repo links, docs, or sanitized excerpts only.
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: Contact preference
+      description: GitHub issue comments are fine by default. Add another contact only if you want.
+    validations:
+      required: false
